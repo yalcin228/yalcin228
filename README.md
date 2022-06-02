@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Yalçın and I'm a Software Engineer.
 
-[![LinkedIn](https://img.shields.io/badge/yalcingulmemmedov-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalcingulmemmedov/)![ViewCount](https://komarev.com/ghpvc/?username=yalcin228&color=1A4730)
+[![LinkedIn](https://img.shields.io/badge/yalcingulmemmedov-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalcingulmemmedov/) ![ViewCount](https://komarev.com/ghpvc/?username=yalcin228&color=1A4730)
 [![GitHub Thaiane](https://img.shields.io/github/followers/yalcin228?label=follow&style=social)](https://github.com/yalcin228)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcin228&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
