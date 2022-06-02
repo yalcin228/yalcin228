@@ -8,6 +8,8 @@ My name is Yalçın and I'm a Software Engineer.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yalcin228&theme=dark)](https://git.io/streak-stats)<br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalcin228&theme=onedark&margin-w=5&rank=C,B,A,AA,AAA,S,SS,SSS&)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcin228&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 
 ### Languages and Tools
